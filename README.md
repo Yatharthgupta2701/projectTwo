@@ -1,1 +1,2 @@
-# this is read me fie
+# this is read me file
+# Created by Yatharth gupta
